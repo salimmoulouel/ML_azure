@@ -1,0 +1,2 @@
+model_checkpoint_path: "convolutional_weights.hs"
+all_model_checkpoint_paths: "convolutional_weights.hs"
