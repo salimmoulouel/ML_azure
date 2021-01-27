@@ -1,4 +1,5 @@
-ssh i- file_pem azureuser@publicipadress
+#chmod 400 file_emp
+#ssh i- file_pem azureuser@publicipadress
 
 
 
