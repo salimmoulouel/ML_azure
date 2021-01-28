@@ -67,6 +67,6 @@ def predict():
 
 
 if __name__=="__main__":
-    app.run(host='0.0.0.0', port=9999)
+    app.run(host='0.0.0.0', port=9200)
     #retirer le debug lors de la mise en production
     app.run(debug=True)
